@@ -14,7 +14,7 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.8.0",
-	"appid": "wx3ed78986d70eec6e",
+	"appid": "wxfb52f2d7b2f6123a",
 	"projectname": "yougou",
 	"debugOptions": {
 		"hidedInDevtools": []
@@ -40,26 +40,13 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 2,
+			"current": 0,
 			"list": [
 				{
-					"id": -1,
-					"name": "dev",
-					"pathName": "pages/category/index",
+					"id": 0,
+					"name": "pages/cart/index",
+					"pathName": "pages/cart/index",
 					"query": "",
-					"scene": null
-				},
-				{
-					"id": -1,
-					"name": "pages/search_list/index",
-					"pathName": "pages/search_list/index",
-					"query": "",
-					"scene": null
-				},
-				{
-					"id": -1,
-					"name": "cat",
-					"pathName": "pages/goods_details/index",
 					"scene": null
 				}
 			]

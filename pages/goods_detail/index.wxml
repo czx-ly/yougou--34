@@ -24,7 +24,7 @@ indicator-dots>
  </view>
 
 
-<!-- 商品详情，文档地址：https://developers.weixin.qq.com/miniprogram/dev/component/rich-text.html -->
+
 <rich-text nodes="{{ detail.goods_introduce }}"></rich-text>
 
 <!-- 底部栏 -->
@@ -47,6 +47,6 @@ indicator-dots>
   </navigator>
 
   <!-- 右侧的按钮 -->
-  <view class="footer-button">加入购物车</view>
+  <view class="footer-button" bindtap="handleAddCart">加入购物车</view>
   <view class="footer-button">立即购买</view>
 </view>
