@@ -176,3 +176,9 @@ border-radius: 2px;
   line-height: 100rpx;
   color: #fff;
 }
+
+.goods-empty{
+  text-align: center;
+  color: #999;
+  padding-top: 100rpx;
+}
